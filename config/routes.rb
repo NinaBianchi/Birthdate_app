@@ -1,7 +1,10 @@
 Rails.application.routes.draw do
 
   root to: 'owners#new'
+<<<<<<< HEAD
   
+=======
+>>>>>>> b677466d4ac6b524fd842662ea75a3c178a80260
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
